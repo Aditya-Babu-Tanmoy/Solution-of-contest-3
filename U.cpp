@@ -1,5 +1,5 @@
 /// Sort a string after one element
-/*#include<iostream>
+#include<iostream>
 #include<algorithm>
 using namespace std;
 
@@ -15,4 +15,4 @@ int main()
         cout<<"+";
     }
     return 0;
-}*/
+}
