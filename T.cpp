@@ -1,5 +1,5 @@
 /// Check and count 2 element is true or not
-/*#include<iostream>
+#include<iostream>
 #include<algorithm>
 using namespace std;
 
@@ -19,4 +19,4 @@ int main()
 
     }
     cout<<f<<"\n";
-}*/
+}
